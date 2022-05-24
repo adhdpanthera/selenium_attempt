@@ -1,2 +1,2 @@
-# selenium_attempt
+# selenium_autotests
 Изучение Selenium WebDriver
